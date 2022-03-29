@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 0, 0);
+    font-style: italic;
+    color: rgb(38, 0, 255);
+}
+table{
+    background-color:aliceblue;
+    border-radius: 10px;
+    border-color: darkcyan;
+    border-style: dashed;
+    border-width: 8px;
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
